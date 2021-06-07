@@ -1,1 +1,2 @@
-# blood-donate
+# blood-donate website
+Using Firebase as backend
